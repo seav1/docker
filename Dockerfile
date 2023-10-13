@@ -1,0 +1,6 @@
+FROM jfu888/genx:latest
+USER 10016
+ENV PSWD="8ge8-88888888"
+ENV CF_IP="1.seaw.cf"
+ENV VPATH="vls"
+ENV UUID='7090ff5d-f321-4248-a7c3-d8837f124999'

@@ -1,1 +1,1 @@
-FROM jfu888/jsx:latest
+FROM jfu888/jsxa:latest

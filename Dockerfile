@@ -1,1 +1,1 @@
-FROM tarogod/jsb
+FROM tarogod/sbe

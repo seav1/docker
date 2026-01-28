@@ -1,1 +1,1 @@
-FROM jfu888/kows
+FROM jfu888/wsd

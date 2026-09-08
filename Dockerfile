@@ -1,8 +1,8 @@
 FROM node:20-alpine
 
-WORKDIR /tmp
+WORKDIR /tmp/
 
-COPY index.js package.json /tmp
+COPY index.js package.json /tmp/
 
 RUN apk update &&\
     apk add --no-cache curl bash

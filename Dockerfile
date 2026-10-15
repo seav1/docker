@@ -1,1 +1,1 @@
-FROM jfu888/nzonews:latest
+From jfu888/nzonesb
